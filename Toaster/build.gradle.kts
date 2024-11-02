@@ -53,7 +53,7 @@ afterEvaluate {
                 groupId = "com.github.eng-ahmed-younis"
                 //name of your library.
                 artifactId = "toaster"
-                version = "1.1"
+                version = "1.2"
             }
         }
     }
