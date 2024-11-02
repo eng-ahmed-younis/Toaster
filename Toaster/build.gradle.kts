@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.example.toaster"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         minSdk = 24
@@ -53,7 +53,7 @@ afterEvaluate {
                 groupId = "com.github.eng-ahmed-younis"
                 //name of your library.
                 artifactId = "toaster"
-                version = "1.0"
+                version = "1.1"
             }
         }
     }
